@@ -1,0 +1,12 @@
+- Sistema de estados asincrono
+- Entregarle Volumen a los containers
+- GRPC es obligatorio (Aprender)
+- Microservicion de javaScript
+- Utilizar Kibana para graficas las metricas a analizar
+- Al menos 3 Microservicion (Gestion de estados, notificaciones y comunicacion,)
+
+
+p=19 
+g=9 
+a=13 
+b=8

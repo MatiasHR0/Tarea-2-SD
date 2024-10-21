@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+service PedidoService {
+  rpc CrearPedido (PedidoRequest) returns (PedidoResponse);
+}
+
+message PedidoRequest {
+  string nombreProducto = 1;
+  float precio = 2;
+}
+
+message PedidoResponse {
+  string estado = 1;
+}
