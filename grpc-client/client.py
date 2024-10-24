@@ -1,6 +1,6 @@
 import grpc
-from grpc-server.proto import servicio_pb2
-from grpc-server.proto import servicio_pb2_grpc
+from grpc_server.proto import servicio_pb2
+from grpc_server.proto import servicio_pb2_grpc
 
 def run():
     # Crear el canal de conexión al servidor gRPC
